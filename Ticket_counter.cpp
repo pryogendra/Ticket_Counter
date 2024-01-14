@@ -28,7 +28,6 @@ node *start = NULL;
 int menu()
 {
 	printf("\n\n                                      ");
-	scanf("%c");
 	printf("\n\n         ***************************************** TICKET OPERATIONS *****************************************\n\n");
 	int ch;
 	printf("\n                                                   1.Create a Ticket \n");
